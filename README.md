@@ -25,6 +25,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sole Proprietor Pankin A / search a good projects with great teams)
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working in JSC Arcadia Inc  / search a good projects with great teams)
+- 🌱 I’m currently learning TypeScript / C#
 
