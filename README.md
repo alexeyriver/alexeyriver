@@ -1,6 +1,5 @@
 Всем Привет | Hi there!
 - 🔭 Я в поиске интересных предложений
-- 🌱 Изучаю React JS, TypeScript, Node JS, Express.js.
 - 📫 Моя почта: alexeyriver@gmail.com
 - 🤔 Мой телеграмм: @alexeyriver
 
@@ -18,13 +17,8 @@
 ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
-
-### Изучаю в данный момент
 ![TypeScript](https://img.shields.io/badge/TS-TypeScript-yellowgreen)
 
+and many more...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working in JSC Arcadia Inc  / search a good projects with great teams)
-- 🌱 I’m currently learning TypeScript / C#
 
